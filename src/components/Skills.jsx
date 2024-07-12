@@ -33,9 +33,9 @@ export const Skills = () => {
         <div className="container">
             <div className="row">
                 <div className="col-12">
-                    <div className="skill-bx wow zoomIn">
+                    <div className="skill-bx wow zoomIn ">
                         <h2>Skills</h2>
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.<br></br> Lorem Ipsum has been the industry's standard dummy text.</p>
+                        <p>I am a skilled web developer proficient in a variety of modern technologies. My expertise lies in both backend and frontend development, with significant experience in building RESTful APIs using Django and creating dynamic, user-friendly interfaces with React. I have a strong command of HTML, CSS, and JavaScript, enabling me to craft visually appealing and responsive web pages. My problem-solving abilities allow me to tackle complex programming challenges effectively. Additionally, I am well-versed in database management using SQL and have a solid understanding of version control with Git and GitHub. My diverse skill set makes me a versatile developer capable of handling various aspects of web development projects.</p>
                         <Carousel responsive={responsive} infinite={false} className="owl-carousel owl-theme skill-slider">
                             <div className="item">
                                 <img src={meter1} alt="Image" />
@@ -43,12 +43,9 @@ export const Skills = () => {
                             </div>
                             <div className="item">
                                 <img src={meter2} alt="Image" />
-                                <h5>Brand Identity</h5>
+                                <h5>Database</h5>
                             </div>
-                            <div className="item">
-                                <img src={meter3} alt="Image" />
-                                <h5>Logo Design</h5>
-                            </div>
+                         
                             <div className="item">
                                 <img src={meter1} alt="Image" />
                                 <h5>Web Development</h5>

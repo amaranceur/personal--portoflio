@@ -41,10 +41,10 @@ const Projects = () => {
                   </Row>
                 </Tab.Pane>
                 <Tab.Pane eventKey="second">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis libero nec sapien condimentum, vel molestie lorem fringilla. Nullam sed ex non magna suscipit volutpat non non erat.
+                I have experience with Java and SQL. This allows me to develop robust desktop applications. My ability to integrate Java with SQL databases ensures efficient data management and seamless functionality in desktop environments
                 </Tab.Pane>
                 <Tab.Pane eventKey="third">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis libero nec sapien condimentum, vel molestie lorem fringilla. Nullam sed ex non magna suscipit volutpat non non erat.
+                I am highly skilled in database management, which is one of my core strengths as a developer. My expertise includes designing, implementing, and maintaining efficient and secure databases
                 </Tab.Pane>
               </Tab.Content>
             </Tab.Container>
